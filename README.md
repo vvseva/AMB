@@ -3,6 +3,6 @@ Netlogo, computational social science
 
 Unpublished research about modeling with the help of AMB and ERGM, and _probably Bayesian Networks_ models of mobility and vacancy chain
 
-![model face]()
+![model face](https://github.com/vvseva/AMB/blob/master/modelFACE.jpg?raw=true)
 
-![possible output]()
+![possible output](https://github.com/vvseva/AMB/blob/master/netlogoSimulated.jpg?raw=true)
