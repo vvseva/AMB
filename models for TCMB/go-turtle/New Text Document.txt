@@ -1,0 +1,15 @@
+      ask patch-here [
+        set pcolor blue
+      ]
+      
+      ifelse any? neighbors with [pcolor != blue]
+      [
+        face one-of neighbors with [pcolor != blue]
+      ]
+      [
+        wiggle
+      ]
+
+
+      set pcolor pcolor + 0.5
+      face one-of neighbors with-min [pcolor]
