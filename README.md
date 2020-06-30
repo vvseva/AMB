@@ -9,4 +9,4 @@ Unpublished research about modeling with the help of AMB and ERGM, and _probably
 
 # Theory Construction & Model Building course
 
-More info about the couse on ![this page](https://nosoc.io/projects/abm-course/)\
+More info about the couse on ![this page](https://nosoc.io/projects/abm-course/)
