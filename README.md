@@ -10,3 +10,4 @@ Unpublished research about modeling with the help of AMB and ERGM, and _probably
 # Theory Construction & Model Building course
 
 More info about the couse on https://nosoc.io/projects/abm-course/
+Or on this poster from SIGCSE2020 https://github.com/vvseva/AMB/blob/master/models%20for%20TCMB/SIGCSE2020%20Teaching%20Undergraduate%20Sociologists%20Modeling%20and%20Computational%20Thinking%20(1).pdf
