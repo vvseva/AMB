@@ -5,3 +5,5 @@ I have recreated their vignette in twine
 
 
 ![vignette](https://github.com/vvseva/AMB/blob/master/vignette%20experiment/scenario.jpg?raw=true)
+
+Just for sake of education
