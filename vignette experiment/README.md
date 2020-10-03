@@ -4,4 +4,4 @@ this is an attempt to reproduce an experiment from Barrera, D., & Buskens, V. (2
 I have recreated their vignette in twine
 
 
-![vignette](https://github.com/vvseva/AMB/vignette experiment/blob/master/scenario.jpg?raw=true)
+![vignette](https://github.com/vvseva/AMB/blob/master/vignette%20experiment/scenario.jpg?raw=true)
